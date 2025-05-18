@@ -2,7 +2,9 @@
 A simple and responsive weather application interface built with HTML, CSS, and JavaScript. This project displays real-time weather information including temperature, humidity, and wind speed for a user-searched location. The design features a clean gradient UI, search functionality, and dynamic weather icons.
 
 Weather Application – Project Description
+
 Introduction
+
 This project is a fully functional weather information interface developed using fundamental web technologies including HTML, CSS, and JavaScript. The main goal of the application is to allow users to view real-time weather data for any city they input. The interface is designed to be user-friendly, visually appealing, and responsive across different screen sizes.
 
 The weather application is structured around a single-page interface that features a search bar for user input, a weather display card showing temperature and conditions, and additional information such as humidity and wind speed. Based on user input, the application connects to a third-party weather API, retrieves current weather data for the specified city, and dynamically updates the user interface with relevant details.
