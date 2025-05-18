@@ -111,5 +111,5 @@ Conclusion
 This weather application demonstrates a practical use case of API integration in web development. It efficiently combines user input, asynchronous data fetching, dynamic DOM updates, and responsive design to deliver a seamless and informative user experience. It is a great project for beginners and intermediate web developers looking to strengthen their understanding of frontend development, API usage, and UI/UX design principles.
 
 
-![image alt](![Screenshot 2025-05-18 091723](https://github.com/user-attachments/assets/c2970b5e-c713-4d58-9606-24f4435c6e32)
-)
+
+![Screenshot 2025-05-18 091723](https://github.com/user-attachments/assets/15c2b19c-c2bf-4522-b1d8-3f0e7480128f)
